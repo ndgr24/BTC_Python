@@ -1,0 +1,13 @@
+#do not edit this document. edit = bad stuff
+
+exchange = ''
+
+#for example an exchange you could do is exchange = 'binaceus' for Binance.us
+#go here to view supported exchanges: https://github.com/ccxt/ccxt/wiki/Manual
+
+crypto_type = ''
+
+#for example for crypto_type you would put in crypto_type = 'BTC' of Bitcoin
+#for Etherium you would put crypto_type = 'ETH'
+
+max_investing_amount = ''
